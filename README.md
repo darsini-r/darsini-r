@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Darsini R 👋
 
-<!--
-**darsini-r/darsini-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate at Amrita Vishwa Vidyapeetham, Coimbatore, with an interest in exploring different areas of Computer Science and building meaningful technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about problem-solving, understanding how software systems work, and continuously expanding my technical knowledge.
+
+- 🎓 Pursuing B.Tech in Computer Science Engineering (2024–2028)
+- 💻 Interested in Software Engineering and Technology
+- 🧠 Exploring Data Structures, Algorithms and Problem Solving
+- ⚙️ Interested in Operating Systems, Database Systems and Computer Networks
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌱 Always learning, building and improving.
+
+## Technical Skills
+
+**Programming Languages:** Java · JavaScript · C
+
+**Web Technologies:** React · HTML · CSS · Node.js · REST APIs
+
+**Database:** MySQL
+
+**Core Computer Science:** Data Structures & Algorithms · Object-Oriented Programming · Operating Systems
+
+**Tools & Platforms:** Git · GitHub · Android Studio · Linux (Ubuntu)
+
+## Certifications & Workshops
+
+- Intro to Machine Learning — IIT Palakkad
+- AI & Deep Learning with PyTorch — IETE Amrita
+- Artificial Intelligence — IBM SkillsBuild
+
+## Let's Connect
+
+- 📧 Email: [darsini.r77@gmail.com](mailto:darsini.r77@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/darsini-r](https://linkedin.com/in/darsini-r)
+- 🐙 GitHub: [github.com/darsini-r](https://github.com/darsini-r)
+
+---
+
+*Always curious. Always learning. Always building.*
