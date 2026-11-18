@@ -34,7 +34,7 @@ I'm passionate about problem-solving, understanding how software systems work, a
 ## Let's Connect
 
 - 📧 Email: [darsini.r77@gmail.com](mailto:darsini.r77@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/darsini-r](https://linkedin.com/in/darsini-r)
+- 💼 LinkedIn: [linkedin.com/in/darsini-r](https://www.linkedin.com/in/darsini-r-166055346/)
 - 🐙 GitHub: [github.com/darsini-r](https://github.com/darsini-r)
 
 ---
